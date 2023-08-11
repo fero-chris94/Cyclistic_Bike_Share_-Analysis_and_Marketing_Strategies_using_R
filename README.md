@@ -1,6 +1,8 @@
 # Cyclistic Bike Share Analysis and Marketing Insights
 
-- image
+<div class="images">
+<img src="cyclystic_project_icon.png">
+</div>
 
 ## Project Overview
 Welcome to the Cyclistic Bike Share Analysis and Marketing Insights project, a comprehensive exploration of Cyclistic's bike share program aimed at enhancing user experience and optimizing marketing strategies. This README provides an in-depth breakdown of the project's goals, methodology, key findings, and recommendations.
